@@ -1,4 +1,37 @@
 # Byte-compiled / optimized / DLL files
+DATA/TYPES/*
+DATA/SplitTypes/*
+DATA/Pokemon/*
+pokemon.csv
+
+
+# DATA/TYPES/dark/*
+# DATA/TYPES/dragon/*
+# DATA/TYPES/electric/*
+# DATA/TYPES/fairy/*
+# DATA/TYPES/fighting/*
+# DATA/TYPES/fire/*
+# DATA/TYPES/flying/*
+# DATA/TYPES/ghost/*
+# DATA/TYPES/grass/*
+# DATA/TYPES/ground/*
+# DATA/TYPES/ice/*
+# DATA/TYPES/normal/*
+# DATA/TYPES/poison/*
+# DATA/TYPES/psychic/*
+# DATA/TYPES/rock/*
+# DATA/TYPES/steel/*
+# DATA/TYPES/water/*
+
+
+
+# DATA/SplitTypes/test/*
+# DATA/SplitTypes/train/*
+# DATA/SplitTypes/val/*
+
+
+
+# bug
 __pycache__/
 *.py[cod]
 *$py.class
